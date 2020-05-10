@@ -1,12 +1,7 @@
-#block {
-  width: 300px;
-  height: 300px;
+.block {
+  width: 150px;
+  height: 150px;
   border: 1px solid #000;
-  margin: 10px auto;
-}
-#block_one {
-  width: 300px;
-  height: 300px;
-  border: 1px solid #ccc;
+  border-radius: 15px;
   margin: 10px auto;
 }
